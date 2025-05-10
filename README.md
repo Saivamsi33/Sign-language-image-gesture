@@ -11,4 +11,4 @@ How to run:
 Frameworks and tools used :
 Ultralytics, YOLOv8, CVAT, Google Colab, FastAPI, Python, HTML, CSS.
 
-Making of this project - So I have taken my own custom data of sign language numbers from 0 to 9. 10 classes which have 150 images each. I had to manually annotate and label each and every single image over 1500 images using [CVAT](https://www.cvat.ai/pricing/cvat-online). 1000 images for training and 500 for validation. Taken all the images and trained YOLOv8 model in google colab.
+Making of this project - So I have taken my own custom data of sign language numbers from 0 to 9 using a YOLOv8m model from [Ultralytics](https://docs.ultralytics.com/models/yolov8/). 10 classes which have 150 images each. I had to manually annotate and label each and every single image over 1500 images using [CVAT](https://www.cvat.ai/pricing/cvat-online). 1000 images for training and 500 for validation. Taken all the images and trained YOLOv8 model in google colab.
