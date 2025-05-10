@@ -1,0 +1,1 @@
+Trained using YOLOV8M batch 16, epochs 50, augment false
